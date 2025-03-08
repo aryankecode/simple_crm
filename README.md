@@ -27,3 +27,13 @@ Things you may want to cover:
 * ...
 >>>>>>> 487a42b (Initial CRM setup with ActiveAdmin and Customer model)
 FETCH_HEAD
+
+# Simple CRM - Rails Application
+
+## 📌 Features:
+- ActiveAdmin panel for managing customers
+- Customers List with sorting & missing email filters
+- Image uploads via ActiveStorage
+
+## 🚀 Setup Instructions:
+1. Clone this repository:
